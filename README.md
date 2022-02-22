@@ -1,3 +1,3 @@
-# FAQ
+# Frequently Asked Questions (FAQ)
 
-## Welcome FAQ
+How can we help you? Here are answers to some common user queries
