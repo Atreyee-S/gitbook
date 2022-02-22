@@ -1,8 +1,8 @@
 # 👉 About the App
 
-### 1. **What is Sperax Play?**
+### 1. **What is Play Wallet?**
 
-Sperax Play is a mobile only, decentralized Ethereum wallet where users have full control over their private keys. Sperax Play is growing into a community hub for crypto enthusiasts, and everyone interested in decentralized finance.
+Play Wallet is a mobile only, decentralized Ethereum wallet where users have full control over their private keys. It is growing into a community hub for crypto enthusiasts, and everyone interested in decentralized finance.
 
 ### 2. How to login to the app?
 
