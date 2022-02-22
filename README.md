@@ -1,3 +1,3 @@
-# Page 1
+# FAQ
 
-this is a page 1
+## Welcome FAQ
