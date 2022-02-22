@@ -24,22 +24,26 @@ If the contract address shows an invalid error, then the contract address is not
 
 Any ERC-20 ethereum tokens for now.
 
-### 7. Can I change my Gas fee/customize?
+### 7. Can I change my gas fee/customize?
 
 We currently automate this process. So, you cannot change your gas fee details.
 
-### 8. Why is my transaction not showing in-app? How to Track my Transaction?&#x20;
+### 8. How to track my transaction from inside the app?&#x20;
+
+Click on the Top Pane (Green) of your wallet screen and you will see the list of transactions done. You can click on individual transactions to see the details - Date, Wallet Addresses (To and From),  Amount transferred, Gas cost, Transaction Hash etc
+
+### 9. Why is my transaction not showing in-app?&#x20;
 
 In case you are unable to view the transaction inside the app, please check on etherscan.io.
 
-### 9. My Balance is not showing!
+### 10. My Balance is not showing!
 
 Refresh, reload, or restart the app. Check the deposit confirmation from etherscan.io.
 
-### 10. I sent funds to the wrong address. Can I recover my funds?&#x20;
+### 11. I sent funds to the wrong address. Can I recover my funds?&#x20;
 
 No, Ethereum is a decentralized network. Once the transaction is confirmed, you cannot undo it.
 
-### **11. How do I cancel my transaction?**
+### **12. How do I cancel my transaction?**
 
 It is not possible to cancel your transaction
