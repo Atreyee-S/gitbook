@@ -5,3 +5,4 @@
 * [👐 Account](account.md)
 * [💰 Wallet](wallet.md)
 * [🏆 Earning xp](earning-xp.md)
+* [📧 Contact Us](contact-us.md)
