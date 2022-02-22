@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Frequently Asked Questions (FAQ)](README.md)
+* [FAQ](README.md)
 * [👉 About the App](about-the-app.md)
 * [👐 Account](account.md)
 * [💰 Wallet](wallet.md)
