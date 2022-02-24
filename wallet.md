@@ -14,7 +14,7 @@ To recover, you need the Passphrase provided when you first created your wallet.
 
 ### 4. How is my wallet safe from hacking/exploits?
 
-The Sperax Play team doesn’t store any credentials. As long as you safeguard your Passphrase, the wallet is safe from any external attack.
+The Play Wallet team doesn’t store any credentials. As long as you safeguard your Passphrase, the wallet is safe from any external attack.
 
 ### 5. Why is my cryptocurrency contract address recognized as invalid in an address bar?
 
